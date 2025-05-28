@@ -1,6 +1,6 @@
 # Hi there, I'm Erikson Ribeiro! 👋
 
-🚀 **Mobile App Developer | AI Enthusiast | Problem Solver**  
+🚀 **Mobile App Developer | AI Engineer | Problem Solver**  
 🌍 Based in Curitiba, Paraná, Brazil  
 
 ---
