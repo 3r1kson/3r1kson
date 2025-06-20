@@ -30,7 +30,7 @@ Currently pursuing a **specialization in Artificial Intelligence** at **PUC Mina
 ---
 
 ### 🎓 Education & Certifications
-- **Post-Graduation:** Artificial Intelligence @ PUC Minas (2023 - 2024)  
+- **Post-Graduation:** Artificial Intelligence @ PUC Minas (2024 - 2025)  
 - **Bachelor's:** Computer Science @ University of the People (2013 - 2020)  
 - **Bachelor's:** Economics @ Pontifícia Universidade Católica do Paraná (2005 - 2008)  
 - **Certifications:**  
