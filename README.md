@@ -55,7 +55,11 @@ Currently pursuing a **specialization in Artificial Intelligence** at **PUC Mina
 ---
 
 ### 📈 Experience Highlights
-- **Mobile App Developer @ CPN Informática (2021 - Present)**  
+- **Senior Mobile Analyst @ Ambientsys (2025 - present)**  
+   - Maintained and updated Sigra v1, a Flutter-based application.
+   - Led development of Sigra v2, implementing BLoC state management, modular architecture, and an offline-first synchronization system using SQLite for local storage and data sync.
+   - Focused on improving app scalability, performance, and maintainability across online and offline environments.
+- **Mobile App Developer @ CPN Informática (2021 - 2025)**  
    - Delivered robust mobile apps using modern frameworks like Ionic, React Native, and Flutter.  
    - Worked on frontend and backend tasks, ensuring seamless user experiences.
    - Suggestions for strategic planning of the team
