@@ -16,7 +16,7 @@ Currently pursuing a **specialization in Artificial Intelligence** at **PUC Mina
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,javascript,typescript,java,kotlin,python,mysql,sqlite,git,docker,vim,vscode,firebase,github,postman,npm,flutter,react,androidstudio,pycharm,apple,selenium,tensorflow,opencv,sklearn,anaconda" />
+    <img src="https://skillicons.dev/icons?i=dart,javascript,typescript,java,kotlin,python,mysql,sqlite,git,docker,vim,vscode,firebase,github,postman,npm,flutter,react,ionic,androidstudio,pycharm,apple,selenium,tensorflow,opencv,sklearn,anaconda" />
   </a>
 </p>
 
