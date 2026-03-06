@@ -6,7 +6,7 @@
 ---
 
 ### 👩‍💻 About Me
-I'm a passionate mobile app developer with over 3 years of experience crafting cross-platform applications using frameworks like **Ionic (Capacitor/Cordova)**, **React Native**, **Flutter/Dart**, and more. My technical journey also includes expertise in **Angular**, **JavaScript**, **TypeScript**, **Java**, and **Kotlin**, with occasional work in backend technologies like **PHP**, **Phalcon**, and **Laravel**.
+I'm a passionate mobile app developer with over 4+ years of experience crafting cross-platform applications using frameworks like **Ionic (Capacitor/Cordova)**, **React Native**, **Flutter/Dart**, and more. My technical journey also includes expertise in **Angular**, **JavaScript**, **TypeScript**, **Java**, and **Kotlin**, with occasional work in backend technologies like **PHP**, **Phalcon**, and **Laravel**.
 
 Beyond development, I have a strong background in **financial analysis** and **team leadership** from my time as an Analyst at Votorantim, where I ideated and implemented two impactful projects.
 
